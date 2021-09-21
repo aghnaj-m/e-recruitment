@@ -1,0 +1,18 @@
+
+#image{
+  background:url('../img/register_bg.jpeg');
+  background-position:center;
+  background-size:cover;
+}
+#background{
+  background:url('../img/register_bg.jpeg');
+  background-position:center;
+  background-size:cover;
+}
+a{
+  margin: 5px auto;
+
+}
+*,html,body{
+  font-family:Arial, Helvetica, sans-serif;
+}
